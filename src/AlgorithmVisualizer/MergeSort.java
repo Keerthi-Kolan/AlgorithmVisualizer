@@ -73,11 +73,7 @@ public class MergeSort {
         }*/
 
     }
-    public int sort(int len)
-    {
-        SecondPage sc=new SecondPage();
-        divide(sc.button,0,len-1);
-        return 1;
-    }
+
+
 }
 
